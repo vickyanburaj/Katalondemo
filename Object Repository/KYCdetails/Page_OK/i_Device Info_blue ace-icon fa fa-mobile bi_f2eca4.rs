@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Device Info_blue ace-icon fa fa-mobile bi_f2eca4</name>
+   <tag></tag>
+   <elementGuidId>4cd10f27-0141-4a87-a5b6-5410d9338ff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-profile-2']/div/ul/li[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.blue.ace-icon.fa.fa-mobile.bigger-120</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2b6c33f9-b7c4-4b67-872c-91fd0abdc46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blue ace-icon fa fa-mobile bigger-120</value>
+      <webElementGuid>9f7cde58-1d38-4924-92b2-cfe73c793b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-profile-2&quot;)/div[@class=&quot;tabbable&quot;]/ul[@class=&quot;nav nav-tabs padding-18&quot;]/li[3]/a[1]/i[@class=&quot;blue ace-icon fa fa-mobile bigger-120&quot;]</value>
+      <webElementGuid>7eced821-1009-4a37-b0c5-6a11fdbeef7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-profile-2']/div/ul/li[3]/a/i</value>
+      <webElementGuid>3c48d47e-193a-41f5-9654-2a07bc8f3126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[3]/a/i</value>
+      <webElementGuid>3eaab2a5-b9bb-4fba-ac96-b7206179254d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

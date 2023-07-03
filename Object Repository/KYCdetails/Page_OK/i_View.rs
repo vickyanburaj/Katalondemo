@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_View</name>
+   <tag></tag>
+   <elementGuidId>39ea657f-7ac6-4518-aa0a-5ecd0b6df545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dynamic-table']/tbody/tr/td[12]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ace-icon.fa.fa-eye.bigger-130</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8618cf3e-71db-4a9c-ae27-b22c662df5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ace-icon fa fa-eye bigger-130</value>
+      <webElementGuid>6820fd3b-2345-4c2b-9cbc-820b6a4cf567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View</value>
+      <webElementGuid>5535e7b4-65dd-4ec2-9036-a461e7d99e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-table&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[12]/a[@class=&quot;blue&quot;]/i[@class=&quot;ace-icon fa fa-eye bigger-130&quot;]</value>
+      <webElementGuid>87d64c57-6fd8-46fb-b096-0b10b91d648f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dynamic-table']/tbody/tr/td[12]/a/i</value>
+      <webElementGuid>194d780b-a806-4b41-8349-09d5961027a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not required'])[1]/following::i[1]</value>
+      <webElementGuid>7bdc2853-3796-4c3e-b152-e3029a9c2703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HtayHtayWin'])[1]/following::i[1]</value>
+      <webElementGuid>c79b8211-1f42-4dfd-8e72-aac9b9d2e6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing / Development'])[2]/preceding::i[1]</value>
+      <webElementGuid>8697caca-03f5-45ba-88c1-61f6633c0399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::i[1]</value>
+      <webElementGuid>91da995a-e580-46ea-a8f8-e99d8e35772e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>e25a784f-819c-42a6-8890-3612c06eb3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a/i</value>
+      <webElementGuid>1ba5517b-feb1-4404-919c-ead9247711b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = ' View' or . = ' View')]</value>
+      <webElementGuid>4fced92b-2a89-4a3a-97e4-2953ea50104e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

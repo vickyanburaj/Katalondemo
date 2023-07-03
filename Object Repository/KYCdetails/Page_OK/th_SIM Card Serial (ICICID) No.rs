@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_SIM Card Serial (ICICID) No</name>
+   <tag></tag>
+   <elementGuidId>d7d095ed-c073-400d-a29b-d28012315b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dynamic-table']/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>7f4ecc0f-8aab-41fb-a2b6-04162ba4fe4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIM Card Serial (ICICID) No.</value>
+      <webElementGuid>08fa4593-3c4a-4eb9-a06f-12db425521fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-table&quot;)/thead[1]/tr[1]/th[3]</value>
+      <webElementGuid>d82bc506-5383-4218-ac22-e57c7e5499d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dynamic-table']/thead/tr/th[3]</value>
+      <webElementGuid>2754d99a-1ca5-40d2-8964-e0ee299279f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIM Card (IMEI) No.'])[1]/following::th[1]</value>
+      <webElementGuid>ffe94ec3-d94f-4f07-b63d-9e18018ac1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S.No'])[1]/following::th[2]</value>
+      <webElementGuid>b198f12f-fe5f-450e-b314-ae19890fcee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIM Card Subscriber ID (IMSI) No.'])[1]/preceding::th[1]</value>
+      <webElementGuid>5779198e-2dcc-4742-9a8e-29edcc04557d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DeviceID'])[1]/preceding::th[2]</value>
+      <webElementGuid>f6f06a4b-debf-4015-b154-f49f09787a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SIM Card Serial (ICICID) No.']/parent::*</value>
+      <webElementGuid>01a9a2d6-7b82-4e92-a3d8-7424673c8f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>af93b15f-5d9d-4af4-8d06-8d9adaa34161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'SIM Card Serial (ICICID) No.' or . = 'SIM Card Serial (ICICID) No.')]</value>
+      <webElementGuid>fea19972-4bee-4e11-84bc-08225760caf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
