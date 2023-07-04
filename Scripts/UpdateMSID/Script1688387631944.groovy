@@ -19,13 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://anladmin.okdollar.org/Account/Login')
 
-WebUI.acceptAlert()
+WebUI.setText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtUserName'), 
+    'admin')
 
-WebUI.setText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtUserName'),
-	'admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtPassword'),
-	'5mSEQ9MJzs63VALXlX2W8g==')
+WebUI.setEncryptedText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtPassword'), 
+    '5mSEQ9MJzs63VALXlX2W8g==')
 
 WebUI.click(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/span_Login'))
 
