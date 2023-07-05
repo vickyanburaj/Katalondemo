@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ViewIcon</name>
+   <tag></tag>
+   <elementGuidId>a105cc7d-4283-4d41-a701-1ea6995a7c04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ace-icon.fa.fa-eye.bigger-130</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dynamic-table']/tbody/tr/td[12]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ed4daddf-72db-420d-96d6-36ad65a683ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ace-icon fa fa-eye bigger-130</value>
+      <webElementGuid>c3903c70-d423-4cdc-957e-35bfe2621aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View</value>
+      <webElementGuid>8b0f78d4-db01-4795-8d86-fe00d5e3adfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-table&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[12]/a[@class=&quot;blue&quot;]/i[@class=&quot;ace-icon fa fa-eye bigger-130&quot;]</value>
+      <webElementGuid>1ac0ffc5-f161-444e-b9d8-56ab3b46ea73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dynamic-table']/tbody/tr/td[12]/a/i</value>
+      <webElementGuid>b2192857-5598-4697-b260-6c49656b26a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[1]/following::i[1]</value>
+      <webElementGuid>16e0ab0f-06a5-4800-ba9a-dc374bb647d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue , 08-Nov-2022 , 11:20:45'])[1]/following::i[1]</value>
+      <webElementGuid>8b66c86d-0a26-489f-832a-8866830198ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::i[1]</value>
+      <webElementGuid>ea6c2e66-66bc-4e62-a840-f3d7968000a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>57caaed8-bb99-41f7-8714-eb719012be80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a/i</value>
+      <webElementGuid>c597a782-34ff-4cdc-ba78-91032166b880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = ' View' or . = ' View')]</value>
+      <webElementGuid>2b46bf61-d122-4358-ad69-9e70f401714f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

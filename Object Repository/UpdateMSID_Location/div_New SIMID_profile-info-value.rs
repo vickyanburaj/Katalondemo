@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New SIMID_profile-info-value</name>
+   <tag></tag>
+   <elementGuidId>a7830eb0-ffe9-468b-95ad-6c38f93446e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-profile-1']/div/div[2]/div[8]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>929209a7-c1f4-42b1-8867-36f52bf7bcb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-info-value</value>
+      <webElementGuid>b03e7ea0-91a3-4570-9d10-cdf71736b068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;page-content&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-12&quot;]/div[1]/div[@id=&quot;user-profile-1&quot;]/div[@class=&quot;col-xs-12 col-sm-12&quot;]/div[@class=&quot;profile-user-info profile-user-info-striped&quot;]/div[@class=&quot;profile-info-row&quot;]/div[@class=&quot;profile-info-value&quot;]</value>
+      <webElementGuid>a96511eb-909d-4d02-b276-d9b46ab15b85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-profile-1']/div/div[2]/div[8]/div[2]</value>
+      <webElementGuid>b162a371-ca8b-478b-94ea-839f6092a46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New SIMID'])[1]/following::div[1]</value>
+      <webElementGuid>030379c9-ba09-471f-bf3b-0287346e0fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a2c9eaa78ab5c950'])[2]/following::div[3]</value>
+      <webElementGuid>b8e16ec0-f8dc-4ca7-905f-9aaaf3ed9ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New MSID'])[1]/preceding::div[1]</value>
+      <webElementGuid>8d15b6aa-1fd6-4856-9465-38f85f7ac88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]</value>
+      <webElementGuid>ff19cd2c-420f-4b1c-965b-6566de25e016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

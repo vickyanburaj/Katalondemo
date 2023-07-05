@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Address_Info</name>
+   <tag></tag>
+   <elementGuidId>0299d6b7-2c04-4cdb-86e9-76053658e86d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-tabs.padding-18 > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-profile-2']/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>204c6154-adb1-400d-82c1-e7455fb9b235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>5e2f3c03-08bf-473c-aaa5-16d2b61e0c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#feed</value>
+      <webElementGuid>4aba2d34-abf0-47cd-8baa-7b5abfab367f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            
+                            Address
+                        </value>
+      <webElementGuid>acb73784-26d7-4b6a-b4e4-b937d9125da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-profile-2&quot;)/div[@class=&quot;tabbable&quot;]/ul[@class=&quot;nav nav-tabs padding-18&quot;]/li[2]/a[1]</value>
+      <webElementGuid>4f8a2ada-af63-4b97-81d7-ca7bf1ed4806</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-profile-2']/div/ul/li[2]/a</value>
+      <webElementGuid>24474d41-5028-4774-bd9f-1836c8c57b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address']/parent::*</value>
+      <webElementGuid>7d4558bb-adcd-47ec-af86-1932f5d95eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#feed')]</value>
+      <webElementGuid>e9c225b8-f43a-4fdb-a025-ce65bbd7014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>1c097ec2-8d9f-47fc-b709-bb003e6cc1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#feed' and (text() = '
+                            
+                            Address
+                        ' or . = '
+                            
+                            Address
+                        ')]</value>
+      <webElementGuid>6400926a-acf8-4bfb-ad59-b54b4fbbe47f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
