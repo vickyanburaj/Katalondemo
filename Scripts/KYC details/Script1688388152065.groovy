@@ -14,35 +14,33 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import com.sun.media.rtsp.protocol.TransportHeader
+
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://anladmin.okdollar.org/')
+WebUI.openBrowser('http://anladmin.okdollar.org/Account/Login')
 
-WebUI.setText(findTestObject('Object Repository/KYCdetails/Page_OK - Management Portal/input_Please Enter Your Information_txtUserName'), 
-    'admin')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtUserName'), 'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/KYCdetails/Page_OK - Management Portal/input_Please Enter Your Information_txtPassword'), 
-    '5mSEQ9MJzs63VALXlX2W8g==')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtPassword'), 'junction1983')
 
-WebUI.sendKeys(findTestObject('Object Repository/KYCdetails/Page_OK - Management Portal/input_Please Enter Your Information_txtPassword'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('AdminPortal_Login_Location/Page_OK -POM update UDID/LoginButton'))
 
-WebUI.navigateToUrl('http://anladmin.okdollar.org/Dashboard/Dashboard')
+WebUI.click(findTestObject('Check_KYC_AllDetails/KYC'))
 
-WebUI.click(findTestObject('Object Repository/KYCdetails/Page_OK/a_Kyc'))
+WebUI.click(findTestObject('Check_KYC_AllDetails/KYC_Details'))
 
-WebUI.click(findTestObject('Object Repository/KYCdetails/Page_OK/a_Kyc Details'))
+WebUI.sendKeys(findTestObject('Check_KYC_AllDetails/EnterMobileNumber'), '00959883769800')
+WebUI.click(findTestObject('Check_KYC_AllDetails/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/KYCdetails/Page_OK/input_MobileNumber_txtMobileNumber'), '00959883769800')
+WebUI.click(findTestObject('Check_KYC_AllDetails/ViewIcon'))
 
-WebUI.sendKeys(findTestObject('Object Repository/KYCdetails/Page_OK/input_MobileNumber_txtMobileNumber'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Check_KYC_AllDetails/Device Info'))
 
-WebUI.click(findTestObject('Object Repository/KYCdetails/Page_OK/i_View'))
+WebUI.click(findTestObject('Check_KYC_AllDetails/Address_Info'))
 
-WebUI.click(findTestObject('Object Repository/KYCdetails/Page_OK/a_Address'))
+WebUI.click(findTestObject('Check_KYC_AllDetails/Other_Info'))
 
-WebUI.click(findTestObject('Object Repository/KYCdetails/Page_OK/i_Device Info_blue ace-icon fa fa-mobile bi_f2eca4'))
-
-WebUI.doubleClick(findTestObject('Object Repository/KYCdetails/Page_OK/td'))
+WebUI.closeBrowser()
 

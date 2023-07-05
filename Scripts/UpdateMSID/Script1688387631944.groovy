@@ -19,23 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://anladmin.okdollar.org/Account/Login')
 
-WebUI.setText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtUserName'), 
-    'admin')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtUserName'), 'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/input_Please Enter Your Information_txtPassword'), 
-    '5mSEQ9MJzs63VALXlX2W8g==')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtPassword'), 'junction1983')
 
-WebUI.click(findTestObject('Object Repository/LogIn/Page_OK - Management Portal/span_Login'))
+WebUI.click(findTestObject('AdminPortal_Login_Location/Page_OK -POM update UDID/LoginButton'))
 
-WebUI.navigateToUrl('http://anladmin.okdollar.org/Dashboard/Dashboard')
+WebUI.click(findTestObject('UpdateMSID_Location/Device'))
 
-WebUI.click(findTestObject('Object Repository/LogIn/Page_OK/a_Device'))
+WebUI.click(findTestObject('UpdateMSID_Location/Simis MSID'))
 
-WebUI.click(findTestObject('Object Repository/LogIn/Page_OK/a_Simis  Msis'))
+WebUI.sendKeys(findTestObject('UpdateMSID_Location/Enter PhoneNumber'), '00959883769792')
 
-WebUI.setText(findTestObject('Object Repository/LogIn/Page_OK/input_Phone Number_PhoneNumber'), '00959883769792')
+WebUI.click(findTestObject('UpdateMSID_Location/button_Search'))
 
-WebUI.sendKeys(findTestObject('Object Repository/LogIn/Page_OK/input_Phone Number_PhoneNumber'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('UpdateMSID_Location/EnterNewMSID'), 'bf2cd3df38e8748c')
 
-WebUI.click(findTestObject('Object Repository/LogIn/Page_OK/span_Device'))
+WebUI.sendKeys(findTestObject('UpdateMSID_Location/EnterOldMSID'), 'bf2cd3df38e8748c')
+
+WebUI.click(findTestObject('UpdateMSID_Location/button_Update'))
 
