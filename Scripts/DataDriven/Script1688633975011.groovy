@@ -17,27 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://anladmin.okdollar.org/Account/Login')
+WebUI.openBrowser('http://45.41.111.19:8086/Dashboard/Dashboard')
 
-WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtUserName'), 'admin')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtUserName'), Username)
 
-WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtPassword'), 'junction1983')
+WebUI.sendKeys(findTestObject('AdminPortal_Login_Location/txtPassword'), Password)
 
 WebUI.click(findTestObject('AdminPortal_Login_Location/Page_OK -POM update UDID/LoginButton'))
 
-WebUI.click(findTestObject('UpdateMSID_Location/Device'))
-
-WebUI.click(findTestObject('UpdateMSID_Location/Simis MSID'))
-
-WebUI.sendKeys(findTestObject('UpdateMSID_Location/Enter PhoneNumber'), '00959883769792')
-
-WebUI.click(findTestObject('UpdateMSID_Location/button_Search'))
-
-WebUI.sendKeys(findTestObject('UpdateMSID_Location/EnterNewMSID'), 'bf2cd3df38e8748c')
-
-WebUI.sendKeys(findTestObject('UpdateMSID_Location/EnterOldMSID'), 'bf2cd3df38e8748c')
-
-WebUI.click(findTestObject('UpdateMSID_Location/button_Update'))
-
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 
